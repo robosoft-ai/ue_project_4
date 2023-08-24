@@ -1,0 +1,11 @@
+[submodule "Plugins/rclUE"]
+	path = Plugins/rclUE
+        url = https://github.com/robosoft-ai/rclUE.git
+	
+#url = https://github.com/rapyuta-robotics/rclUE.git
+        
+
+[submodule "Plugins/RapyutaSimulationPlugins"]
+	path = Plugins/RapyutaSimulationPlugins
+	url = https://github.com/robosoft-ai/UE-Plugins.git 
+# https://github.com/rapyuta-robotics/RapyutaSimulationPlugins.git
