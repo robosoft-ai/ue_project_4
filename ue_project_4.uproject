@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1C5ACC3C-EDA0-4FB9-AC1E-728956A88046}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ue_project_1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "RapyutaSimulationPlugins",
+			"Enabled": true
+		},
+		{
+			"Name": "rclUE",
+			"Enabled": true
+		}
+	]
+}
